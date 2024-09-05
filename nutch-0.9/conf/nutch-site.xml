@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>http.agent.name</name>
+        <value>AyuAnchor</value>
+        <description>
+            HTTP 'User-Agent' request header. MUST NOT be empty - 
+            please set this to a single word uniquely related to your organization.
+
+            NOTE: You should also check other related properties:
+
+                http.robots.agents
+                http.agent.description
+                http.agent.url
+                http.agent.email
+                http.agent.version
+
+            and set their values appropriately.
+        </description>
+    </property>
+
+    <property>
+        <name>plugin.includes</name>
+        <value>protocol-http|protocol-httpclient|urlfilter-regex|parse-(html)|index-(basic|anchor)|query-(basic|site|url)|response-(json|xml)|summary-basic|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    </property>
+
+</configuration>

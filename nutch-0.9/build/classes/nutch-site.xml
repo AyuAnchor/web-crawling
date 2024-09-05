@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>http.agent.name</name>
+        <value>Agent007</value>
+        <description>User agent string to be used for HTTP requests.</description>
+    </property>
+    <property>
+        <name>plugin.includes</name>
+        <value>protocol-http|protocol-httpclient|urlfilter-regex|parse-(html)|index-(basic|anchor)|query-(basic|site|url)|response-(json|xml)|summary-basic|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    </property>
+    <property>
+        <name>indexer.directory</name>
+        <value>/mnt/c/Apache/nutch-0.9/crawl/index</value>
+        <description>Directory where the index will be stored.</description>
+    </property>
+</configuration>

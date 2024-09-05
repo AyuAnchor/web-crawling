@@ -1,0 +1,196 @@
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Apr 22 2021 18:43:38 UTC
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.109.0
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            5.15.153.1-microsoft-standard-WSL2
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.24+8-post-Ubuntu-1ubuntu322.04
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Ubuntu
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/mnt/c/Apache/apache-tomcat-7.0.109/conf/logging.properties
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/mnt/c/Apache/apache-tomcat-7.0.109/temp
+Aug 29, 2024 12:27:44 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+Aug 29, 2024 12:27:44 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 710 ms
+Aug 29, 2024 12:27:44 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Aug 29, 2024 12:27:44 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.109
+Aug 29, 2024 12:27:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/nutch-0.9.war]
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/i18n-1.0 is already defined
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/i18n-1.0 is already defined
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/nutch-0.9.war] has finished in [4,563] ms
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/docs]
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/docs] has finished in [246] ms
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/dump-output]
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/dump-output] has finished in [198] ms
+Aug 29, 2024 12:27:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/examples]
+Aug 29, 2024 12:27:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/examples] has finished in [3,547] ms
+Aug 29, 2024 12:27:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/host-manager]
+Aug 29, 2024 12:27:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/host-manager] has finished in [376] ms
+Aug 29, 2024 12:27:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/manager]
+Aug 29, 2024 12:27:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/manager] has finished in [431] ms
+Aug 29, 2024 12:27:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/ROOT]
+Aug 29, 2024 12:27:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/ROOT] has finished in [273] ms
+Aug 29, 2024 12:27:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Aug 29, 2024 12:27:54 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 9893 ms
+Aug 29, 2024 12:28:09 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.109
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Apr 22 2021 18:43:38 UTC
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.109.0
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            5.15.153.1-microsoft-standard-WSL2
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.24+8-post-Ubuntu-1ubuntu322.04
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Ubuntu
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+Aug 29, 2024 1:27:33 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/mnt/c/Apache/apache-tomcat-7.0.109/conf/logging.properties
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/mnt/c/Apache/apache-tomcat-7.0.109
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/mnt/c/Apache/apache-tomcat-7.0.109/temp
+Aug 29, 2024 1:27:34 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+Aug 29, 2024 1:27:34 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1852 ms
+Aug 29, 2024 1:27:34 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Aug 29, 2024 1:27:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.109
+Aug 29, 2024 1:27:34 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/nutch-0.9.war]
+Aug 29, 2024 1:27:46 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/i18n-1.0 is already defined
+Aug 29, 2024 1:27:46 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/i18n-1.0 is already defined
+Aug 29, 2024 1:27:46 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Aug 29, 2024 1:27:47 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/nutch-0.9.war] has finished in [12,226] ms
+Aug 29, 2024 1:27:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/docs]
+Aug 29, 2024 1:27:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/docs] has finished in [641] ms
+Aug 29, 2024 1:27:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/dump-output]
+Aug 29, 2024 1:27:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/dump-output] has finished in [480] ms
+Aug 29, 2024 1:27:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/examples]
+Aug 29, 2024 1:27:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/examples] has finished in [8,037] ms
+Aug 29, 2024 1:27:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/host-manager]
+Aug 29, 2024 1:27:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/host-manager] has finished in [1,061] ms
+Aug 29, 2024 1:27:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/manager]
+Aug 29, 2024 1:27:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/manager] has finished in [843] ms
+Aug 29, 2024 1:27:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/ROOT]
+Aug 29, 2024 1:27:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/mnt/c/Apache/apache-tomcat-7.0.109/webapps/ROOT] has finished in [522] ms
+Aug 29, 2024 1:27:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Aug 29, 2024 1:27:58 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 24355 ms
+Aug 29, 2024 1:28:25 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.

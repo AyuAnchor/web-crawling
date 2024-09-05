@@ -1,0 +1,520 @@
+http://codeforces.com/	Version: 5
+Status: 5 (db_redir_perm)
+Fetch time: Sat Sep 21 02:17:03 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 1.0
+Signature: null
+Metadata: _pst_:moved(12), lastModified=0: https://codeforces.com/ 
+
+https://codeforces.com/	Version: 5
+Status: 2 (db_fetched)
+Fetch time: Thu Aug 22 13:14:07 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 0.0 days
+Score: 1.0
+Signature: cafe29d826ebef47b4d4138f69b8c2e4
+Metadata: _pst_:success(1), lastModified=0 
+
+https://codeforces.com/apiHelp	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/calendar	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/catalog	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/contestRegistration/2003	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/contests	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/contests/2003	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/edu/courses	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/groups	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/gyms	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/help	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/manifest.json	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/problemset	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/profile/Radewoosh	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/profile/Shayan	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/profile/jiangly	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/profile/tourist	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/ratings	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/register	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/scripts/64a1e36e78041fb13f1f6bb310fe8994/en/codeforces-options.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/stream/675	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/streams	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.com/top	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/autosize.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/clipboard.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/confetti.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/controls/wysiwyg.colorpicker.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/controls/wysiwyg.image.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/controls/wysiwyg.link.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/controls/wysiwyg.table.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/facebox.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery-1.8.3.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.autocomplete.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.ba-bbq.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.colorbox-min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.datepick.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.drafts.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.easing.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.hotkeys.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.ie6blocker.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.jgrowl.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.lavalamp.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.swipe.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/jquery.wysiwyg.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/moment-with-locales.min.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/preparedVerdictFormats-en.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/prettify/prettify.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/pushstream.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/js/sjcl.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/markitup/jquery.markitup.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
+https://codeforces.org/s/82580/markitup/sets/markdown/set.js	Version: 5
+Status: 1 (db_unfetched)
+Fetch time: Thu Aug 22 13:14:13 IST 2024
+Modified time: Thu Jan 01 05:30:00 IST 1970
+Retries since fetch: 0
+Retry interval: 30.0 days
+Score: 0.02
+Signature: null
+Metadata: null
+
